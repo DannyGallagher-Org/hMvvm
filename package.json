@@ -1,7 +1,7 @@
 {
   "name": "com.houseofwire.mvvm",
   "displayName": "hMvvm",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "unity": "2018.1",
   "description": "House of Wire MVVM",
   "keywords": [ "ui", "mvvm", "houseofwire" ],
