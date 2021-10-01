@@ -1,7 +1,7 @@
 using RSG;
 using UnityEngine;
 
-namespace View
+namespace hMvvm.View
 {
     public abstract class AbstractView : MonoBehaviour
     {

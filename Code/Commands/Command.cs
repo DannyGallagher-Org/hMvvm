@@ -1,6 +1,6 @@
 using System;
 
-namespace Commands
+namespace hMvvm.Commands
 {
     public class Command
     {

@@ -3,7 +3,7 @@ using System.Runtime.CompilerServices;
 using JetBrains.Annotations;
 using UnityEngine;
 
-namespace ViewModel
+namespace hMvvm.ViewModel
 {
     public abstract class AbstractViewModel : ScriptableObject, INotifyPropertyChanged
     {
