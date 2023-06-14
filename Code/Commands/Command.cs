@@ -2,8 +2,9 @@ using System;
 
 namespace hMvvm.Commands
 {
-    public class Command
+    public class Command  : ICommand
     {
+        public event EventHandler CanExecuteChanged;
         private readonly Action<object> _execute;
         private readonly Predicate<object> _canExecute;
 
