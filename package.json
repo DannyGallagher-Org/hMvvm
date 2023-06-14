@@ -1,7 +1,7 @@
 {
   "name": "com.houseofwire.mvvm",
   "displayName": "hMvvm",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "unity": "2018.1",
   "description": "House of Wire MVVM. Imlement ICommand on Commands",
   "keywords": [ "ui", "mvvm", "houseofwire" ],
