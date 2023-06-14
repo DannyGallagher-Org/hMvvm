@@ -5,6 +5,7 @@ using UnityEngine;
 
 namespace hMvvm.ViewModel
 {
+    [CreateAssetMenu(fileName = "NewModel", menuName = "hMvvm/Model")]
     public abstract class AbstractViewModel : ScriptableObject, INotifyPropertyChanged
     {
         public abstract void Init();
